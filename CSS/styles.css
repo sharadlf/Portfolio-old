@@ -2,24 +2,19 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
+  background-color: #cbf1f5;
 }
 
 .topcontainer {
-  background-color: #fbe8d3;
+  background-color: #cbf1f5;
   position: relative;
   padding-top: 100px;
 }
 
 .middlecontainer {
-  height: 200px;
-  width: 200px;
-  background-color: red;
 }
 
 .bottomcontainer {
-  height: 200px;
-  width: 200px;
-  background-color: blue;
 }
 
 h1 {
